@@ -1,15 +1,14 @@
 #  Hi, I'm Rishika 👋
 
-🎓 Final Year Electronics & Computer Science Engineering Student at KIIT Bhubaneswar
-
-💡 Interested in AI/ML, Data Analysis, Agentic AI and Software Development.
+- Final Year Electronics & Computer Science Engineering Student at KIIT Bhubaneswar
+- Interested in AI/ML, Data Analysis, Agentic AI and Software Development.
 
 ## About Me
 
-* 🔬 Former Research Intern at IIIT Guwahati
-* 🤖 Built ML applications using PyTorch and Hugging Face
-* 📊 Experienced in data analysis, visualisation, and model evaluation
-* 🌱 Currently exploring AI Agents, workflow automation, and how intelligent systems can interact with tools, APIs, and real-world applications.
+* - Former Research Intern at IIIT Guwahati
+* - Built ML applications using PyTorch and Hugging Face
+* - Experienced in data analysis, visualisation, and model evaluation
+* - Currently exploring AI Agents, workflow automation, and how intelligent systems can interact with tools, APIs, and real-world applications.
 ## Tech Stack
 
 **Languages:** Python, SQL, C, MATLAB
@@ -20,7 +19,7 @@
 
 ## Featured Project
 
-🎙️ Voice Command Classifier
+* Voice Command Classifier
 
 * Achieved 92% test accuracy
 * Built using PyTorch, Hugging Face, and Librosa

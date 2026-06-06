@@ -5,10 +5,10 @@
 
 ## About Me
 
-* - Former Research Intern at IIIT Guwahati
-* - Built ML applications using PyTorch and Hugging Face
-* - Experienced in data analysis, visualisation, and model evaluation
-* - Currently exploring AI Agents, workflow automation, and how intelligent systems can interact with tools, APIs, and real-world applications.
+* Former Research Intern at IIIT Guwahati
+* Built ML applications using PyTorch and Hugging Face
+* Experienced in data analysis, visualisation, and model evaluation
+*  Currently exploring AI Agents, workflow automation, and how intelligent systems can interact with tools, APIs, and real-world applications.
 ## Tech Stack
 
 **Languages:** Python, SQL, C, MATLAB
